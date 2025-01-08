@@ -4,7 +4,7 @@
 wget https://raw.githubusercontent.com/CryptoAirdropHindi/OpenLedger-vps/refs/heads/main/openledger.sh && bash openledger.sh
 ```
 
-Kemudian akses server kalian via RDP 
+Then access your server via RDP
 
 ```
 openledger-node --no-sandbox
